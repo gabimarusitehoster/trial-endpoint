@@ -30,11 +30,11 @@ app.get('/', (_req, res) => {
 <body class="bg-light">
   <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
     <div class="container-fluid">
-      <a class="navbar-brand" href="/">Makino.js Trial</a>
+      <a class="navbar-brand" href="/">Kunle Trial & APIS</a>
     </div>
   </nav>
   <main class="container py-5">
-    <h1 class="mb-4">Welcome to Makino.js Trial Controller</h1>
+    <h1 class="mb-4">Welcome to Kunle APIS & Trial Controller</h1>
     <p>This service provides:</p>
     <ul>
       <li><code>/trial</code> → JSON with your trial expiration date</li>
