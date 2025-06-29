@@ -1,14 +1,15 @@
 {
-  "name": "trial-endpoint-server",
+  "name": "kunle-trial-api",
   "version": "1.0.0",
-  "description": "Simple API to serve JavaScript trial expiration date",
+  "description": "Kunle trial endpoint with homepage, /trial & /waifu routes plus self-uptimer",
   "main": "tes.js",
   "scripts": {
     "start": "node tes.js"
   },
-  "author": "Ayo Kunle",
+  "author": "Ayodele David",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.18.4"
+    "express": "^4.18.4",
+    "node-fetch": "^2.6.7"
   }
 }
