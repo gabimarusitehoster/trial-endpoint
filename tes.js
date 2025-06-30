@@ -6,7 +6,7 @@ const app     = express();
 const PORT    = process.env.PORT || 3000;
 
 // ——— CONFIG —————————————————————————————————————————————
-const EXPIRATION_DATE = '2025-07-01T00:00:00Z';
+const EXPIRATION_DATE = '2025-07-11T00:00:00Z';
 const SELF_URL        = process.env.SELF_URL
                       || 'https://trial-endpoint.onrender.com/trial'; // ← update
 // Base URL for waifu.pics NSFW endpoint  
